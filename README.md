@@ -1,9 +1,11 @@
 
 Binary Image Classification – AI Lab Project (Computer Vision for Deep Learning)
 
- Project Overview
+Wildlife conversation
+
+Project Overview
  
-This project focuses on implementing a binary image classification model using deep learning techniques. The aim is to train a neural network to distinguish between two classes of images with high accuracy. The task was completed as part of the AI Lab – Computer Vision for Deep Learning course at WorldQuant University.
+This project focuses on implementing a binary image classification model using deep learning techniques. The aim is to train a neural network to distinguish between two classes of images taken through camera traps with high accuracy. The task was completed as part of the AI Lab – Computer Vision for Deep Learning course at WorldQuant University.
 
 Acknowledgment
 
